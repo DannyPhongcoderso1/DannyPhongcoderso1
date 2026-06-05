@@ -65,9 +65,11 @@ My current goal is to strengthen my foundation in AI/ML and prepare for AI/ML En
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DannyPhongcoderso1&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyPhongcoderso1&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+  <img src="assets/github-stats.svg" height="150" alt="GitHub stats" />
+  <img src="assets/top-langs.svg" height="150" alt="Top languages" />
 </div>
 
 ---
